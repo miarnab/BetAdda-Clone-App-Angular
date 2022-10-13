@@ -1,0 +1,17 @@
+.container{
+  width: 80%;
+}
+
+#more-button{
+  border-radius: 50px;
+  bottom: 0;
+  left: 0;
+  position: absolute;
+}
+
+.no-image-area{
+  background: lightgrey;
+}
+
+
+
